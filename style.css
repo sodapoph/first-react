@@ -1,0 +1,19 @@
+body { }
+
+.title {
+    text-align: center;
+    color: #be4226;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.box {
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.listBox {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
